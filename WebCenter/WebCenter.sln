@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "WebCenter", "WebCenter.pyproj", "{BA655D2B-EA45-4BBF-AEAC-4E35C63E6422}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA655D2B-EA45-4BBF-AEAC-4E35C63E6422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA655D2B-EA45-4BBF-AEAC-4E35C63E6422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA655D2B-EA45-4BBF-AEAC-4E35C63E6422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA655D2B-EA45-4BBF-AEAC-4E35C63E6422}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79ABF6FF-A0DB-459D-B092-FC074D5A363C}
+	EndGlobalSection
+EndGlobal
